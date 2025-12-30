@@ -1,0 +1,9 @@
+{
+  "name": "node-runtime-core",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  }
+}
