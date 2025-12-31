@@ -1,0 +1,10 @@
+Nhận request từ client:
+Xử lý request:
+Chọn route phù hợp:
+Trả response về client:
+
+Client = bạn gửi thư (request) đến một văn phòng.
+Server (Express/Node.js) = văn phòng nhận thư.
+Route = phòng ban xử lý từng loại thư khác nhau.
+Middleware = nhân viên kiểm tra thư trước khi chuyển đến phòng ban (kiểm tra dữ liệu, xác thực, log…).
+Response = thư trả lời gửi lại bạn.
