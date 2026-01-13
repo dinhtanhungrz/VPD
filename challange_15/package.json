@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express-validator": "^7.3.1"
+  },
+  "name": "challange_15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validators.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
